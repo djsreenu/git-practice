@@ -38,7 +38,7 @@ CHECK_ROOT
 
 if [$# -eq 0]
 then 
-USAGE
+    USAGE
 fi
 
 # sh 15-loops.sh git mysql postfix nginx
